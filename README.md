@@ -60,7 +60,7 @@ Garden-Management-System/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/pnhirapara/DAIICT-Green-Campus-Management.git
+git clone https://github.com/pnhirapara/Daiict-Green-Campus-Management.git
 cd DAIICT-Green-Campus-Management
 ```
 
