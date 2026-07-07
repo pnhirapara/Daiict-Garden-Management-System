@@ -60,8 +60,8 @@ Garden-Management-System/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/pnhirapara/Daiict-Green-Campus-Management.git
-cd DAIICT-Green-Campus-Management
+git clone https://github.com/pnhirapara/Daiict-Garden-Management-System.git
+cd Daiict-Garden-Management-System
 ```
 
 ### 2️⃣ Create Tables & Insert Data
